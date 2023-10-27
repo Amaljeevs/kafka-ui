@@ -36,7 +36,7 @@ the cloud.
 ![Interface](documentation/images/Interface.gif)
 
 # Features
-* **Multi-Cluster Management** — monitor and manage all your clusters in one place
+* **Multi-Cluster Management** — monitor and manage all your clusters in one places
 * **Performance Monitoring with Metrics Dashboard** —  track key Kafka metrics with a lightweight dashboard
 * **View Kafka Brokers** — view topic and partition assignments, controller status
 * **View Kafka Topics** — view partition count, replication status, and custom configuration
